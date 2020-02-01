@@ -15,8 +15,8 @@ Version Control Task List
 - [x] Checkout the master branch.
 - [x] Edit at least one of the files in this branch and commit the change.
 - [x] Merge the testing-new-files branch into the master branch.
-- [] Checkout the testing-new-files branch.
-- [] Push all of your changes in both branches to your remote repository (make sure that both branches show up on your remotes host).
+- [x] Checkout the testing-new-files branch.
+- [x] Push all of your changes in both branches to your remote repository (make sure that both branches show up on your remotes host).
 - [] Find a partner to work with.
 - [] Grant this person/these people write access to your remote repository.
 - [] Clone your partner’s remote repository to a new directory outside your original repository.
