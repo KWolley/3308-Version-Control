@@ -8,13 +8,13 @@ Version Control Task List
 - [x] Clone the repository to your local machine.
 - [x]  Add and commit a simple README file with your name and the name of this assignment.
 - [x] Add and commit a few other files (anything you want) to the repository.
-Create a tag named v0.0.1.
+- [x] Create a tag named v0.0.1.
 - [x] Push all changes and tags to your remote repository (note that tags require a special flag to be included in the push).
-- [] Create and checkout a new branch named testing-new-files.
-- [] Add and commit a few more files to this branch.
-- [] Checkout the master branch.
-- [] Edit at least one of the files in this branch and commit the change.
-- [] Merge the testing-new-files branch into the master branch.
+- [x] Create and checkout a new branch named testing-new-files.
+- [x] Add and commit a few more files to this branch.
+- [x] Checkout the master branch.
+- [x] Edit at least one of the files in this branch and commit the change.
+- [x] Merge the testing-new-files branch into the master branch.
 - [] Checkout the testing-new-files branch.
 - [] Push all of your changes in both branches to your remote repository (make sure that both branches show up on your remotes host).
 - [] Find a partner to work with.
