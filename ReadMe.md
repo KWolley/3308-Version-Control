@@ -1,5 +1,5 @@
 # Lab 4 - Version Control
-Kara Wolley
+Kara Wolley\
 Partner: Saloni Sharma
 
 Version Control Task List
