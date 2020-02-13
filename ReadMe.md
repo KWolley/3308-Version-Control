@@ -2,6 +2,8 @@
 Kara Wolley\
 Partner: Saloni Sharma
 
+This might cause a merge conflict.
+
 Version Control Task List
 
 
@@ -18,16 +20,16 @@ Version Control Task List
 - [x] Merge the testing-new-files branch into the master branch.
 - [x] Checkout the testing-new-files branch.
 - [x] Push all of your changes in both branches to your remote repository (make sure that both branches show up on your remotes host).
-- [] Find a partner to work with.
-- [] Grant this person/these people write access to your remote repository.
-- [] Clone your partner’s remote repository to a new directory outside your original repository.
-- [] Edit the README file in your partner’s master branch to list your name as 'Partner: (Your name here)'.
-- [] Commit your changes.
-- [] Push your changes to your partner’s remote repository.
-- [] Return to your original repository (but do not pull from your remote branch yet).
-- [] Checkout your master branch.
-- [] Edit your README file to add a line that says "This might cause a merge conflict".
-- [] Commit your changes.
+- [x] Find a partner to work with.
+- [x] Grant this person/these people write access to your remote repository.
+- [x] Clone your partner’s remote repository to a new directory outside your original repository.
+- [x] Edit the README file in your partner’s master branch to list your name as 'Partner: (Your name here)'.
+- [x] Commit your changes.
+- [x] Push your changes to your partner’s remote repository.
+- [x] Return to your original repository (but do not pull from your remote branch yet).
+- [x] Checkout your master branch.
+- [x] Edit your README file to add a line that says "This might cause a merge conflict".
+- [x] Commit your changes.
 - [] Make sure that your partner has completed step 20 (pushed their changes to your README).
 - [] Attempt to pull your partner's changes to your repository.
 - [] Resolve the merge conflict if one occurs.
